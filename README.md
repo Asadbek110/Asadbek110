@@ -1,8 +1,8 @@
 # Hi 👋, I'm Asadbek
 
 💻 I'm a backend developer with Python & Django  
-📚 I'm currently learning JavaScript  
-📧 Reach me at: yourmail@example.com
+📚 I'm currently learning Database 
+📧 Reach me at: asadbekturguno001@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asadbekisroilov&color=blue)
 
