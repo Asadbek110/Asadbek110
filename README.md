@@ -12,7 +12,7 @@ Currently learning **Database** and exploring **Microservices**.
 
 ## 🔗 Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/asadbek-isroilov-13b41a305)
-[![Instagram]((https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)]([https://instagram.com/Asadbek__775](https://www.instagram.com/asadbek__775/)))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asadbek__775)
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
